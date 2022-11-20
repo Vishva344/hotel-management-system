@@ -1,8 +1,8 @@
-### This repostory is no longer updated :)
+
 
 <div align="center">
 <img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/com/coder/hms/icons/main_logo(128X12).png">
-  <h1>Hotel-Properties-Management-System Application </h1><br>
+  <h1>Hotel-Management-System Application </h1><br>
   
 </div>                                                                                                                
 
@@ -24,63 +24,4 @@ search your reservation with date, referance number or agency referange number, 
 <h4>6- Rooms status manging window </h4> Easily play with your room status from this page, set as clean, dirty, dnd single or plural
 
 <h4>7- Cash desk window </h4> Check your cash desk as difference currencies and report them.Add, delete payments 
-<hr>
-<h2>Login : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/New_Login.png">
-<hr>
-<h2>Main window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/main.png">
-<hr>
-<h2>Reservation window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/reservations.png">
-<hr>
-<h2>Blockade window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/blockade.png">
-<hr>
-<h2>Customers window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/customers.png">
-<hr>
-<h2>Room cleaning window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/roomStatus.png">
-<hr>
-<h2>Cash desk window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/cashDesk.png">
-<hr>
-<h2>All rooms window : </h2>
-
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/roomPlan.png">
-<hr>
-<h2>Audit window : </h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/audit.png">
-<hr>
-<h2>Checkin window : </h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/roomsAndCheckin.png">
-<hr>
-<h2>Interior of room window : </h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/roomInner.png">
-<hr>
-<h2>System log interior window : </h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/systemLog.png">
-<hr>
-<h2>All reservations window</h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Properties-Management-System/blob/master/src/Screenshots/allReservations.png">
-<hr>
-<h2>Reporting Section</h2>
-<img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/Screenshots/reportWindow.png">
-and more...
-
-
-
-
-
-
-
-
 
