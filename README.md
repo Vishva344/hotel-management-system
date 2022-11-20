@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/Coder-ACJHP/Hotel-Management-System/blob/master/src/com/coder/hms/icons/main_logo(128X12).png">
   <h1>Hotel-Properties-Management-System Application </h1><br>
-  <h4>This project is designed and developed by Coder ACJHP.</h4>
+  
 </div>                                                                                                                
 
 Coder HPMS is hotels properties managing system application, operates independently of the operating system (Made by <b>Java</b> & <b>Maven</b> & <b>Hibernate</b> & <b>Mysql</b> & <b>Jaspy Security</b>) Easy to use, secure, simple user interface, understandable text with icons and every object colored.
